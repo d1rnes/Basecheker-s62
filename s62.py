@@ -91,6 +91,8 @@ def search_word_in_directory(directory, word):
                 search_word_in_file(file_path, word)
             elif file.endswith(('.db', '.sqlite')):
                 search_word_in_db(file_path, word)
+            elif file.endswith('.csv'):
+                search_word_in_csv(file_path, word)
             elif file.endswith('.sql'):
                 search_word_in_sql(file_path, word)
 
