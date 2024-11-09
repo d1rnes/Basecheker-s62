@@ -10,12 +10,6 @@ import sys
 from colorama import Fore, Style, Back
 colorama.init()
 
-def Title(title):
-    ctypes.windll.kernel32.SetConsoleTitleW(f"{name_tool} / {version_tool}")
-
-name_tool = "Base Checker v0.3"
-version_tool = "dev by D1rnes"
-
 def clear():
     if os.name == 'nt':
         os.system('cls')
