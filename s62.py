@@ -16,6 +16,9 @@ def clear():
     else:
         os.system('clear')
 
+print("f")
+clear()
+
 def Reset():
     clear()
     check()
