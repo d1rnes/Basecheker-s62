@@ -10,3 +10,5 @@
 ## Step : 3 Run basecheker
 
     python3 s62.py
+
+## Step : 4 Put the databases in the bd folder
