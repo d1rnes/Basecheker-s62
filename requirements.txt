@@ -1,0 +1,5 @@
+colorama
+ctypes
+sqlite3
+re
+csv
