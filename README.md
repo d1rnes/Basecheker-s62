@@ -11,4 +11,4 @@
 
     python3 s62.py
 
-## Step : 4 Put the databases in the bd folder
+## Step : 4 Сreate a directory bd and put the databases
