@@ -1,7 +1,7 @@
 # Basecheker-s62
 ## Step : 1 Download basecheker
 
-    git clone https://github.com/d1rnes/Basecheker-s62.git
+    git clone https://github.com/d1rnes/Basecheker-s62
 
 ## Step : 2 Move to basecheker directory
 
