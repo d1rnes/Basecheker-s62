@@ -7,8 +7,10 @@
 
     cd Basecheker-s62
 
-## Step : 3 Run basecheker
+## Step : 3 Install the requirements.txt
+
+## Step : 4 Run basecheker
 
     python3 s62.py
 
-## Step : 4 Сreate a directory bd and put the databases
+## Step : 5 Сreate a directory bd and put the databases
