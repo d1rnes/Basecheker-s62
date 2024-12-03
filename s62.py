@@ -2,11 +2,7 @@ import os
 import sqlite3
 import csv
 import re
-from random import choice
-import time
 import colorama
-import sys
-from colorama import Fore, Style, Back
 colorama.init()
 
 def clear():
