@@ -2,7 +2,6 @@ import os
 import sqlite3
 import csv
 import re
-import ctypes
 from random import choice
 import time
 import colorama
